@@ -2,4 +2,4 @@
 
 #list of the lending company
 
-#create a credit score 
+#create a credit score
